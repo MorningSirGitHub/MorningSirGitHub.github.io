@@ -4,7 +4,7 @@ SEOTitle: 焦晨阳的博客 | MorningSir Blog
 header-img: img/post-bg-desk.jpg
 email: jiaochenyang25@gmail.com
 description: "Every failure is leading towards success."
-keyword: "MorningSir, MorningSir Blog, 焦晨阳的博客, jiaochenyang, 焦晨阳, Unity, U3D, C#"
+keyword: "MorningSir, MorningSir Blog, 焦晨阳的博客, jiaochenyang, 焦晨阳, Unity, U3D, C#, Shader"
 url: "http://MorningSirGitHub.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MorningSirGitHub/MorningSirGitHub.github.io" # you code repository
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: morningsir
 
 # Gitalk
 gitalk:
@@ -74,10 +74,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-138758468-1'            # Format: UA-xxxxxx-xx
 ga_domain: MorningSir.auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·MorningSir",
+        href: "http://www.jianshu.com/u/9f15ed32cf5b"
     },{
         title: "Apple",
         href: "https://apple.com"
